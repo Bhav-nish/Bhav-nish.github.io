@@ -4,6 +4,5 @@ In STUDENT INDUCTION PROGRAM we were always been said to stay out motivated abou
 The session was really excellent , we were able to hear few inspiring moments from the chief guests of the particular days as they were telling us their life experiences.
 
 | DATE | NAME | LEARNT |
-| ----------- | ----------- |
 | Header | Title | i |
 | Paragraph | Text | j |
