@@ -5,5 +5,5 @@ The session was really excellent , we were able to hear few inspiring moments fr
 
 | Date | Name | Learnt |
 | ----------- | ----------- | ----------- |
-| 11-07-24 | Dr. Arvind Dhingra | Gave us an motivcation about life  | 
-| Paragraph | Text | hi | 
+| 11-07-24 | Dr. Arvind Dhingra | Gave us an motivcation about life | 
+| 11-07-24 | Dr. Parminder Singh | Gives us an introduction about clubs in college ( basically are of 2 levels - NATIONAL and COLLEGE) | 
